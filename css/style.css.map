@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;AAKA,MAAK;EACJ,UAAU,EAAE,IAAI;;;;;;;;;;;;;;;;;;;;;;;ACNjB,CAAC;EACA,SAAS,EAAE,IAAI;;ACDhB,WAAW;EACV,UAAU,EAAE,iBAAiB;;ACD9B,eAAe;EACd,QAAQ,EAAE,QAAQ;EAClB,UAAU,EAAE,IAAI;EAChB,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,GAAG;;AAEb,UAAU;EACT,GAAG,EAAE,GAAG;EACR,OAAO,EAAE,QAAQ;EACjB,MAAM,EAAE,iBAA4B;EACpC,aAAa,EAAE,GAAG;;AAEnB,OAAO;EACN,QAAQ,EAAE,QAAQ;EAClB,gBAAgB,EAAE,KAAK;EACvB,OAAO,EAAE,iBAAiB;EAC1B,GAAG,EAAE,IAAI;EACT,KAAK,EAAE,IAAI;EACX,YAAM;IACL,KAAK,EAAE,IAAI;IACX,KAAK,EAAE,KAAK",
+"sources": ["../scss/base/_reset.scss","../scss/modules/_typography.scss","../scss/modules/_blocks.scss","../scss/pages/_home.sass"],
+"names": [],
+"file": "style.css"
+}

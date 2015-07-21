@@ -1,0 +1,58 @@
+/* @mixin border-radius($radius: 5px) {
+	-webkit-border-radius: $radius;
+	-moz-border-radius: $radius;
+	border-radius: $radius;
+}*/
+ul, li {
+  list-style: none; }
+
+/*body {
+	font-family:'Georgia', sans-serif;
+	font-size:14px;
+	color:#666;
+	line-height:1.5em;
+	background:#f4f4f4;
+}
+
+#container {
+	width:960px;
+	margin:20px auto;
+	overflow:auto;
+	border:#ccc solid 1px;
+	background: #fff;
+	@include border-radius(20px);
+}
+
+section{
+	min-height: 200px;
+}
+*/
+P {
+  font-size: 18px; }
+
+.block-flat {
+  border-top: 1px solid #EFEFEF; }
+
+.home-page-head {
+  position: relative;
+  margin-top: 50px;
+  height: 300px;
+  padding: 0px; }
+
+.nav-login {
+  top: 8px;
+  padding: 5px 10px;
+  border: 1px solid #64adea;
+  border-radius: 5px; }
+
+.social {
+  position: absolute;
+  background-color: black;
+  padding: 10px 10px 5px 5px;
+  top: 20px;
+  right: 20px; }
+  .social > h4 {
+    float: left;
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */
